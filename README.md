@@ -1,2 +1,2 @@
-# C-Conway-game
-A multifunctional Conway game written in C language under linux environment
+# C-linux
+contain some practices about c programming in linux, thread, process, synchronization and communication between threads or processes
